@@ -1,8 +1,8 @@
-# .github
+![Pysegine](img/Pysegine.png)
 
 English | [中文](README_zh.md)
 
-Money is cheap, show me the code.
+A simple search engine for practicing object-oriented design in Python.
 
 ## License
 

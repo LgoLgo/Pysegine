@@ -1,8 +1,8 @@
-# .github
+![Pysegine](img/Pysegine.png)
 
 [English](README.md) | 中文
 
-Money is cheap, show me the code.
+一个简单的搜索引擎，用于在 Python 中练习面向对象的设计。
 
 ## 许可证
 
